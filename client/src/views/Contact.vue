@@ -11,7 +11,7 @@
             referrerpolicy="no-referrer-when-downgrade"
         ></iframe>
         <h2>Send us a message!</h2>
-        <form @submit="sendForm">
+        <form @submit="sendForm" class="contactForm">
             <div class="form-group">
                 <label for="name">Name</label>
                 <input type="text" class="form-control" id="name" name="name" placeholder="Enter your name" />

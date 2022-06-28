@@ -4,6 +4,7 @@
         <div>{{ product.price.toFixed(2) }} CHF</div>
         <div>
             <button @click="removeFromCart(product.id)">-</button>
+            <!-- Weil Amount sich ändern kann wurde er als v-text angegeben -->
             <span v-text="cartItem.amount"></span>
             <button @click="addToCart(product.id)">+</button>
         </div>

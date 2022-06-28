@@ -1,8 +1,8 @@
 # Kittyshop
 
 ## Installation
-
-1.  Install node_modules from client and server: `yarn install`
+1. Node version 16+
+2. Install node_modules from client and server: `yarn install`
 
 ## Run
 

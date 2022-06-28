@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "catdoor",
+        "title": "cat flap",
         "price": 10,
         "image": "https://m.media-amazon.com/images/I/81ytZrF6PYL._AC_SL1500_.jpg",
-        "description": "Lorem ipsum"
+        "description": "A cat flap (cat door) enables your cat to come and go through its own door to the great outdoors. Modern cat flaps of varying designs have features that allow you to adjust the access available, for example locking it at night or allowing 'in' only usage after a certain time of day or night."
     },
     {
         "id": 2,

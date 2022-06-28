@@ -4,13 +4,13 @@
             <div class="large-6 medium-12 column">
                 <ul class="social fa-ul">
                     <li>
-                        <a href="#"><i class="fa fa-li fa-dribbble"> </i> <span>DRIBBLE</span></a>
+                        <a href="https://www.instagram.com/" target="_blank"><i> </i> <span>INSTAGRAM</span></a>
                     </li>
                     <li>
-                        <a href="#"><i class="fa fa-li fa-twitter"> </i> <span>TWITTER</span></a>
+                        <a href="https://twitter.com/home" target="_blank"><i> </i> <span>TWITTER</span></a>
                     </li>
                     <li>
-                        <a href="#"><i class="fa fa-li fa-skype"> </i> <span>SKYPE</span></a>
+                        <a href="https://www.skype.com/de/" target="_blank"><i> </i> <span>SKYPE</span></a>
                     </li>
                 </ul>
             </div>

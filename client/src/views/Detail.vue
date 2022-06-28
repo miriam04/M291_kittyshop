@@ -12,7 +12,7 @@
             <div>
                 <h1>{{ product.title }}</h1>
                 <p>{{ product.description }}</p>
-                <p>{{ product.price }} CHF</p>
+                <b>{{ product.price }} CHF</b>
                 <div>
                     <button @click="addToCart">Add to cart</button>
                 </div>
