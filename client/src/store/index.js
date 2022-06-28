@@ -8,6 +8,7 @@ export default new Vuex.Store({
         products: null,
         cart: [],
     },
+    // es gibt Getters für den Warenkorb, um das Total der Kosten und das Total der Anzahl Produkte aus dem Store zu berechnen
     getters: {
         getCartTotal(state) {
             return state.cart.reduce((total, item) => {
@@ -21,6 +22,7 @@ export default new Vuex.Store({
             }, 0);
         },
     },
+    // Mutations sind um den Store zu bearbeiten
     mutations: {
         setProducts(state, products) {
             state.products = products;
